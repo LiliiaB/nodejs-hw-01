@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Jennifer Mosciski",
+    "phone": "579.643.4642 x2137",
+    "email": "Sydnie26@yahoo.com",
+    "job": "Legacy Integration Agent"
+  },
+  {
+    "name": "Raul Grady",
+    "phone": "476-337-6665 x85043",
+    "email": "Rickie65@gmail.com",
+    "job": "District Research Coordinator"
+  },
+  {
+    "name": "Kristy Heidenreich",
+    "phone": "756.230.3146 x700",
+    "email": "Carson_Breitenberg@gmail.com",
+    "job": "Customer Assurance Producer"
+  },
+  {
+    "name": "Dr. Julio Kunze",
+    "phone": "(436) 859-3053 x1072",
+    "email": "Candida6@hotmail.com",
+    "job": "Central Directives Manager"
+  },
+  {
+    "name": "Ms. Tabitha Jacobson",
+    "phone": "(207) 248-5995",
+    "email": "Malinda72@yahoo.com",
+    "job": "Product Identity Specialist"
+  }
+]
