@@ -15,7 +15,11 @@ const generateContacts = async (number) => {
 
     const updatedContacts = [...contacts, ...newContacts];
 
-    fs.writeFileSync(PATH_DB, JSON.stringify(updatedContacts, null, 2));
+    fs.writeFileSync(
+      PATH_DB,
+      JSON.stringify(updatedContacts, null, 2),
+      'utf-8',
+    );
 
     console.log(`Successfully added ${number} new contacts.`);
   } catch (error) {
